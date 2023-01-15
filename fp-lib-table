@@ -9,4 +9,5 @@
   (lib (name "TSM-116-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-116-01-L-SV")(options "")(descr ""))
   (lib (name "TSM-112-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-112-01-L-SV")(options "")(descr ""))
   (lib (name "U_fl_conn")(type "KiCad")(uri "${KIPRJMOD}/snapeda/U.FL-R-SMT_10_")(options "")(descr ""))
+  (lib (name "ul_DTC043TEBTL")(type "KiCad")(uri "${KIPRJMOD}/ultralibrarian/ul_DTC043TEBTL")(options "")(descr ""))
 )
