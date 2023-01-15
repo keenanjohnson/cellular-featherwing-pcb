@@ -8,4 +8,5 @@
   (lib (name "2023-01-14_23-42-37")(type "Legacy")(uri "${KIPRJMOD}/ultralibrarian/SN74AHC1G09DCKR/2023-01-14_23-42-37.lib")(options "")(descr ""))
   (lib (name "TSM-116-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-116-01-L-SV/TSM-116-01-L-SV.kicad_sym")(options "")(descr ""))
   (lib (name "TSM-112-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-112-01-L-SV/TSM-112-01-L-SV.kicad_sym")(options "")(descr ""))
+  (lib (name "U.FL-R-SMT_10_")(type "KiCad")(uri "${KIPRJMOD}/snapeda/U.FL-R-SMT_10_/U.FL-R-SMT_10_.kicad_sym")(options "")(descr ""))
 )
