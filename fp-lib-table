@@ -1,3 +1,11 @@
 (fp_lib_table
   (lib (name "BG96")(type "KiCad")(uri "${KIPRJMOD}/snapeda/BG96")(options "")(descr ""))
+  (lib (name "SIM8060-6-0-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/snapeda/SIM8060-6-0-14-00-A")(options "")(descr ""))
+  (lib (name "SMF05C")(type "KiCad")(uri "${KIPRJMOD}/snapeda/SMF05C")(options "")(descr ""))
+  (lib (name "TPS63020DSJR")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TPS63020DSJR")(options "")(descr ""))
+  (lib (name "TXB0108DQSR")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TXB0108DQSR")(options "")(descr ""))
+  (lib (name "MAX8868EUK30_")(type "KiCad")(uri "${KIPRJMOD}/snapeda/MAX8868EUK30_")(options "")(descr ""))
+  (lib (name "SN74AHC1G09DCKR")(type "KiCad")(uri "${KIPRJMOD}/ultralibrarian/SN74AHC1G09DCKR")(options "")(descr ""))
+  (lib (name "TSM-116-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-116-01-L-SV")(options "")(descr ""))
+  (lib (name "TSM-112-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-112-01-L-SV")(options "")(descr ""))
 )

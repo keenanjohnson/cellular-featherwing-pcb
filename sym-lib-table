@@ -1,3 +1,11 @@
 (sym_lib_table
   (lib (name "BG96")(type "KiCad")(uri "${KIPRJMOD}/snapeda/BG96/BG96.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM8060-6-0-14-00-A")(type "KiCad")(uri "${KIPRJMOD}/snapeda/SIM8060-6-0-14-00-A/SIM8060-6-0-14-00-A.kicad_sym")(options "")(descr ""))
+  (lib (name "SMF05C")(type "KiCad")(uri "${KIPRJMOD}/snapeda/SMF05C/SMF05C.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63020DSJR")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TPS63020DSJR/TPS63020DSJR.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108DQSR")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TXB0108DQSR/TXB0108DQSR.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX8868EUK30_")(type "KiCad")(uri "${KIPRJMOD}/snapeda/MAX8868EUK30_/MAX8868EUK30_.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-01-14_23-42-37")(type "Legacy")(uri "${KIPRJMOD}/ultralibrarian/SN74AHC1G09DCKR/2023-01-14_23-42-37.lib")(options "")(descr ""))
+  (lib (name "TSM-116-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-116-01-L-SV/TSM-116-01-L-SV.kicad_sym")(options "")(descr ""))
+  (lib (name "TSM-112-01-L-SV")(type "KiCad")(uri "${KIPRJMOD}/snapeda/TSM-112-01-L-SV/TSM-112-01-L-SV.kicad_sym")(options "")(descr ""))
 )
