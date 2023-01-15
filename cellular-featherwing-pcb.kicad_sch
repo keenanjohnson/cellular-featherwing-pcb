@@ -3309,6 +3309,28 @@
     (pin "1" (uuid 573d4866-d236-41b1-9b6a-73842c3aa979))
   )
 
+  (symbol (lib_id "Device:R") (at 353.06 77.47 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 7bafcfe5-2be1-45aa-a19e-426b22a2413c)
+    (property "Reference" "R?" (id 0) (at 355.6 76.1999 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "15k" (id 1) (at 355.6 78.7399 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 351.282 77.47 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 353.06 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" "" (id 4) (at 353.06 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6bc97a7e-11c4-4896-a780-7e411b1168fa))
+    (pin "2" (uuid c90fa92f-507d-428c-81d2-7c4945aeb1ef))
+  )
+
   (symbol (lib_id "BG96:BG96") (at 208.28 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 853c3514-2b17-4266-bae9-4297424c2c6f)
@@ -3946,6 +3968,9 @@
     )
     (path "/a25273c5-1365-484a-a805-af1efe4525e6"
       (reference "R8") (unit 1) (value "15k") (footprint "")
+    )
+    (path "/7bafcfe5-2be1-45aa-a19e-426b22a2413c"
+      (reference "R?") (unit 1) (value "15k") (footprint "")
     )
     (path "/853c3514-2b17-4266-bae9-4297424c2c6f"
       (reference "U1") (unit 1) (value "BG96") (footprint "RF_GSM:Quectel_BG96")
