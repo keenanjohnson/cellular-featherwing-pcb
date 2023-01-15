@@ -565,10 +565,10 @@
       (net 45 "GND") (pinfunction "GND") (pintype "power_in") (tstamp df27fccf-e389-4620-82b7-f4eca41abf83))
     (pad "102" smd rect (at -2.55 -5.95 90) (size 1 1) (layers "F.Cu" "F.Mask")
       (net 45 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 5fe331a0-2bbc-4fab-b303-f99cd4ccae74))
-    (model "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Quectel_BG96.wrl"
+    (model "${KIPRJMOD}/snapeda/BG96/BG96.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
