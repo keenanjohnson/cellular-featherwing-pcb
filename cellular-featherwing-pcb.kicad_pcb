@@ -206,7 +206,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 01932018-c56d-4fe6-9566-9011f1bd143f)
-    (at 85.94 150.29)
+    (at 109.22 165.1)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -218,11 +218,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e8c0791d-bda3-45d0-8d28-95c62afa945d)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ecf07475-7d26-44c2-8cfb-4afeddcf5ecc)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a95e65c7-81be-4899-843b-952bcb5c2943)
     )
@@ -247,11 +247,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 44a1c257-ab51-4083-ba07-7d37e06cc3b9)
     )
-    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4187ea05-1f82-40b7-a7b8-1e5c53085dcf)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 97302745-491a-4bf5-92f7-e1f0c6285f34)
     )
@@ -278,7 +278,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 02a68f5e-7086-48d8-845a-f269aa9d379b)
-    (at 152.86 151.54)
+    (at 185.42 149.86)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -290,11 +290,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e7e0e6c5-afdb-4ae1-a914-39f57c426bb7)
     )
-    (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "1k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7e4f9e62-0777-41ee-8810-f3bae352a08b)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 4ab94f3f-bbbe-4773-9fe4-0b4ec27e9113)
     )
@@ -321,7 +321,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 06cb2f7a-e6ed-467b-af0d-053ce21e6da4)
-    (at 83.01 90.9)
+    (at 47.45 33.02)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -333,7 +333,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7c207a09-5241-46c3-aea9-8d029797fd1a)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 43157474-52b3-4cfd-ab77-041020f6d625)
     )
@@ -379,7 +379,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 13e524b2-8bc8-4ef5-b34d-318ea3ef2a69)
-    (at 85.94 147.24)
+    (at 55.88 144.78)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -391,11 +391,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4ea3ee53-3de8-44bb-b1df-970b4d48e36e)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b7189b42-57e4-4cf9-853c-5e1b2c68547d)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 650f47ca-92d3-45f5-af91-ef599260f688)
     )
@@ -428,7 +428,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8f53acc8-9aa4-4896-bad9-02b43299e61f)
     )
-    (fp_text user "${REFERENCE}" (at 0.1016 0.1524 unlocked) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0.1016 0.1524 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 69c07c35-93d9-4c68-9763-4d3b8b7f6ac3)
     )
@@ -761,7 +761,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 165e5eac-74bc-4f92-81a4-940a2d55c92f)
-    (at 155.77 151.54)
+    (at 251.46 111.76)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -804,7 +804,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 17d82343-6690-41c1-ad9d-fc288512d624)
-    (at 181.81 132.11)
+    (at 187.185 139.7)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190")
@@ -817,11 +817,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 38895bc2-10fc-4358-8777-7f88f36e2348)
     )
-    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c6fc6b3-6e89-4220-928b-c4b82a7e44a4)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp 0c8d0bf8-a0db-4240-9ee8-33b03af5eda8)
     )
@@ -848,7 +848,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 17f4069a-9319-4fcc-adfb-ae81bf28837e)
-    (at 151.72 157.68)
+    (at 137.16 162.56)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -860,11 +860,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33c385fb-c61d-4005-afa3-db2ed451f8da)
     )
-    (fp_text value "10k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "10k" (at -15.18 10.24) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4aff9e88-cb77-4b2e-8b00-83668dc4f5df)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp c38ba504-ee75-4978-bb14-db94edb09044)
     )
@@ -891,7 +891,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 19087e6d-a5e5-4bc5-95b8-1f3fc0c1d19d)
-    (at 95.7 146.3)
+    (at 93.98 152.4)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -904,11 +904,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b0856010-467b-4c8a-b37f-c0678adc45b3)
     )
-    (fp_text value "33pF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "33pF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc6733a4-e5ba-4bba-a80a-3c774a622849)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 8a619670-2772-46ce-a0b4-c679598afa7d)
     )
@@ -935,7 +935,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 1a463eff-eaf5-46e5-8399-71e4a99c5f6f)
-    (at 95.79 143.79)
+    (at 91.44 147.32)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -947,11 +947,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a2da4ff4-eb4c-4eeb-8b7d-fe4071b9cdfe)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45de4740-0165-4372-886c-59c36b08301b)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aadcfd24-34c7-4533-9252-f321dc15b818)
     )
@@ -963,7 +963,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 2625eda5-d64a-4bfd-8c1a-55a1de468dd1)
-    (at 98.75 144.14)
+    (at 101.6 149.86)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -976,11 +976,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f3719804-2637-401a-80c9-b1d97b98fe1d)
     )
-    (fp_text value "100nF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100nF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d2f8c7ae-07d9-4d34-bf89-445f19455625)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 4fd9b3b7-07b0-4ef5-8562-b01ce3c56638)
     )
@@ -1007,7 +1007,7 @@
 
   (footprint "ul_DTC043TEBTL:DTC043TEBTL" (layer "F.Cu")
     (tedit 0) (tstamp 264bcee3-2db2-40d3-abe8-71dc923e43d2)
-    (at 156.4522 132.72135)
+    (at 121.92 55.88)
     (property "MPN" "DTC043TEBTL")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
     (property "Sheetname" "")
@@ -1017,19 +1017,19 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8551dd68-76d9-4a92-ada4-7fa859a9c8d2)
     )
-    (fp_text value "DTC043TEBTL" (at 0 0) (layer "F.SilkS")
+    (fp_text value "DTC043TEBTL" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9cfdd926-6569-4741-a524-1d91b7451b64)
     )
-    (fp_text user "*" (at 0 0) (layer "F.SilkS")
+    (fp_text user "*" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7be11d0a-5062-4151-bcf9-f574e6df44c8)
     )
-    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User")
+    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User") hide
       (effects (font (size 0.127 0.127) (thickness 0.002)))
       (tstamp 1920b5a6-5e82-4483-b141-f728b686f6da)
     )
-    (fp_text user "*" (at 0 0) (layer "F.Fab")
+    (fp_text user "*" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0c96853a-71e6-48f2-88f6-f672b09efa8e)
     )
@@ -1153,7 +1153,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 279c5263-1b57-4d0e-ad6c-34320c26b05f)
-    (at 91.95 149.35)
+    (at 81.28 142.24)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "DNP")
@@ -1166,11 +1166,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d72187b0-0dfd-4e18-ad23-b9bc2d712b87)
     )
-    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 21bf71a9-0277-4940-93ff-1decffb4b278)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 8ab82de4-6bb7-444d-b083-6e4f1d00746e)
     )
@@ -1197,7 +1197,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 27a5cd79-18b6-43f1-966b-e5c6bc676ef5)
-    (at 92.74 143.79)
+    (at 88.9 137.16)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1205,15 +1205,15 @@
     (property "exclude_from_bom" "")
     (path "/4bbeee5c-7bf6-4b77-a69f-867e5fb4a41e")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "TP8" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP8" (at 0 -2.54) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a66a935-a36c-4b27-af2e-e77d9f2054f8)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9b548279-473d-4173-bd82-5ed8c44accf8)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -31.617575 5.13) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 68976d15-7383-4439-998e-fed1579016de)
     )
@@ -1225,7 +1225,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 288c820c-cbde-48a1-af51-6ce98fb250e0)
-    (at 80.55 125.99)
+    (at 30.48 33.02)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1237,7 +1237,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ad83fc2-ddcd-4683-a334-d97896f22b10)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4a52bb6c-c6a2-4e59-8278-88f1ede8159a)
     )
@@ -1283,7 +1283,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 2923b702-ad8c-4f78-9c3d-6341aef807ce)
-    (at 73.66 86.36)
+    (at 106.68 60.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A475MP5NRNC/3887140")
@@ -1296,11 +1296,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e72a6b5f-2bfb-46f5-9b01-ed06e627c146)
     )
-    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ab94ffd2-a9c6-472c-ac6b-f7470dc3a5ff)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 4a9ea85f-6b95-4e0d-8850-1624eff870e6)
     )
@@ -1327,7 +1327,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 2d1f5990-cb2a-4283-a047-1b7068dabb5a)
-    (at 68.83 92.72)
+    (at 66.04 30.48)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1339,7 +1339,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3db6bb96-7a70-4db5-9add-e1ad8cefd5b2)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c7728671-e63e-4944-967a-f10687303be2)
     )
@@ -1385,7 +1385,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 301aa295-15b5-4719-81c5-448456247d0b)
-    (at 79.19 149.69)
+    (at 17.78 53.34)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1393,11 +1393,11 @@
     (property "exclude_from_bom" "")
     (path "/c637c3f0-4a1e-4ac7-a159-eb886add6cae")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "SO18" (at 0 -1.8) (layer "F.SilkS")
+    (fp_text reference "SO18" (at 0 -2.54) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8c26a155-0d15-4fd1-878f-713392a41822)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ebff9534-adad-4075-a70b-0630388585d1)
     )
@@ -1443,7 +1443,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3064ef3b-83e4-4870-814e-9e9053802b94)
-    (at 148.81 157.68)
+    (at 129.54 157.48)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -1455,11 +1455,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a3e754f-716d-4d73-a4e6-ac8fb27ad558)
     )
-    (fp_text value "10k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "10k" (at -15.18 10.24) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2583249-c1e4-4d24-b6fb-17342402b6e0)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 670ce51d-baf1-40fc-9364-c186256a6ddf)
     )
@@ -1486,7 +1486,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 3273b415-46a0-4af2-a006-ae6976ecda6c)
-    (at 84.23 83.8)
+    (at 26.05 27.94)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1498,7 +1498,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 745e03df-a8c7-43ca-a9d3-8ad7947fc1e9)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 5.48 -8.24) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a93575e8-4386-453c-9d95-f18217ddba61)
     )
@@ -1544,7 +1544,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 33e35447-53b1-4abb-9b3f-909d54d66d90)
-    (at 76.2 125.99)
+    (at 30.48 38.1)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1556,7 +1556,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2e2a560f-ad08-43fc-b999-b25cb138e77b)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c6019215-b569-419d-97c1-9719bd40d6ef)
     )
@@ -1602,7 +1602,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 35487009-69fe-40a2-9a0f-5afdbdf48a1f)
-    (at 83.01 87.35)
+    (at 53.34 20.32)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1614,7 +1614,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2c62b57c-06a9-47c0-b01d-d465c42c4707)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b33f9116-4c08-444b-bc32-5b0ef436b11e)
     )
@@ -1660,7 +1660,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 361355d4-30c1-4005-b9fe-f481ef49f01e)
-    (at 74.61 155.07)
+    (at 51.575 152.4)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -1704,7 +1704,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 37a42b2f-1ab9-41bb-b858-4a53b352f147)
-    (at 158.66 153.5)
+    (at 182.88 134.62)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -1716,11 +1716,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6167071d-c0f5-43d9-9e74-16641dd308e4)
     )
-    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 893d8638-434d-4b4b-b24e-c7f6b633afa4)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 57df7a6b-422a-4a59-b203-930a699ea2e1)
     )
@@ -1747,7 +1747,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 384019ca-3a3c-4db6-bc48-6188524bd37d)
-    (at 101.68 140.2)
+    (at 101.679999 140.2)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294")
@@ -1760,11 +1760,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0c4da805-d0f7-4fdd-a638-ad5c88880f41)
     )
-    (fp_text value "0" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "0" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2b45e694-8083-4eda-a30a-07b69a70e571)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 8c6ae5ff-6ea0-477b-8764-6ed45c25d53b)
     )
@@ -1791,7 +1791,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 399cf86b-7cd3-4598-a02f-16287560ab70)
-    (at 88.9 152.4)
+    (at 88.9 160.02)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "DNP")
@@ -1804,11 +1804,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2958a66b-b01f-44aa-8413-1467f81b64fd)
     )
-    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e9bd123c-da37-4bcd-afe5-5ce4a19bb9c6)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 4f1daf69-ea3f-41ff-be4b-b4e6a47129fa)
     )
@@ -1835,7 +1835,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 39cab1c1-c4ff-4a86-8dd3-e9023fe48734)
-    (at 156.3 149.55)
+    (at 187.96 147.78)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -1847,11 +1847,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 790f7823-5489-423d-b1f4-21899fdc9c0e)
     )
-    (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "1k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d49207f1-0d0e-4524-8f23-d6a08b01d4d7)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp ed227bf9-c574-4f72-aa30-bb96c935cdbc)
     )
@@ -1878,7 +1878,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3abf1096-73a5-46f8-9e16-4fefb90862a8)
-    (at 74.81 152.34)
+    (at 75.430303 111.76)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA")
@@ -1891,11 +1891,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a1880c93-0561-4f01-9485-d284b612345e)
     )
-    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab")
+    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d48a362c-1d28-4b48-b7c5-7668d82b9e78)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp f3787e90-e73f-4d6b-887e-10b076c86755)
     )
@@ -1922,7 +1922,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3c78ba8e-12e4-4c48-9dcb-196fb700df68)
-    (at 98.81 142.17)
+    (at 99.06 144.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "DNP")
@@ -1935,11 +1935,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp df197fdd-f607-4b25-b1db-f3311565ae69)
     )
-    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2f27a97b-76da-4015-a365-bc3e09ca595e)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -6.059393 0.07) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 2ae59a2c-4589-4911-9afe-82848340f2ef)
     )
@@ -1966,7 +1966,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 400aba87-a90c-48bc-baaf-0839a7a9efb1)
-    (at 98.81 140.2)
+    (at 93.98 140.2)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -1977,11 +1977,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 85878f1c-c6d3-450d-ad3f-ac9d289db0f7)
     )
-    (fp_text value "0.1uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1uF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c5b0301e-67fc-4892-8593-ff2c569575aa)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 69d8abc9-335d-4d9a-b077-31c420cfabb6)
     )
@@ -2008,7 +2008,7 @@
 
   (footprint "Inductor_SMD:L_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 408afe02-8d91-4fc6-a180-fecf59a0e4f3)
-    (at 153.39 149.55)
+    (at 177.8 152.4)
     (descr "Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Digikey" "")
@@ -2021,11 +2021,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 09fa81d3-e989-4f18-aebf-efcbb565448f)
     )
-    (fp_text value "47nH" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "47nH" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7aa3d297-f6ef-4bc1-bb2b-a6fde1effa46)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 3d618184-0b25-4033-a9a8-96115fa4ed3f)
     )
@@ -2067,7 +2067,7 @@
       (effects (font (size 0.801331 0.801331) (thickness 0.15)))
       (tstamp 105cdee0-cd5e-4c1c-bd9a-99f95349d165)
     )
-    (fp_text value "U.FL-R-SMT" (at 6.64582 3.09284) (layer "F.Fab")
+    (fp_text value "U.FL-R-SMT" (at 6.64582 3.09284) (layer "F.Fab") hide
       (effects (font (size 0.80022 0.80022) (thickness 0.15)))
       (tstamp 5e1ecb3f-3e7a-45ad-85e7-398a3cca47a3)
     )
@@ -2124,7 +2124,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 449913c0-c7af-4243-9b7d-47e49d843249)
-    (at 80.8 146.24)
+    (at 58.42 134.62)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA")
@@ -2137,11 +2137,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 23be2860-cc7e-4bdb-b09c-e879b12909fc)
     )
-    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab")
+    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc02d91b-8932-4d92-a2d1-2f5681d2eec5)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp 4847c852-9b72-43f6-8e32-5b0b259d88d4)
     )
@@ -2168,7 +2168,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp 4539fdcc-ba62-4b00-92d9-7bd98ac6c2cf)
-    (at 81.88 94.45)
+    (at 63.5 38.1)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2180,7 +2180,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fdcacb69-9f84-471f-8673-4f2f7ff6c330)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e163567e-bdea-477c-afdb-962cb4a53419)
     )
@@ -2232,7 +2232,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 45a8ca38-7e25-4d47-906d-2a2d8b176c00)
-    (at 177.8 137.13)
+    (at 177.8 139.7)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190")
@@ -2245,11 +2245,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c1eeda5-6f87-4b50-b25c-1334384ebdd9)
     )
-    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 76537c36-ffcc-4c47-a61c-66e304ea1add)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp 576fe57c-ac8a-4069-b384-d2082ebf67b8)
     )
@@ -2276,7 +2276,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 48184790-364b-4747-a4d5-5e5fd9e69775)
-    (at 91.77 152.4)
+    (at 109.7 121.92)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -2289,11 +2289,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d4c21b1b-e753-40c6-aa99-3186a83d3652)
     )
-    (fp_text value "100nF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100nF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 557f7ed3-9ba7-48e4-8ed8-749e1eeeded9)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 0851f6e5-fda0-4957-98d7-ac7463ced4a8)
     )
@@ -2320,7 +2320,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 49a62d79-c846-49f9-8209-12e23d7621d4)
-    (at 149.04 155.69)
+    (at 165.1 139.7)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "")
@@ -2333,11 +2333,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0548d8d3-28dc-40dc-9262-08e0b9a54514)
     )
-    (fp_text value "100k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "100k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70d25297-2fbc-4b13-96c9-1704e64826e8)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp e203afae-8388-456b-9a96-6c4dca323dc2)
     )
@@ -2364,7 +2364,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 4c7c9dc7-6b18-447a-b68f-baa66eeee1da)
-    (at 74.31 89.37)
+    (at 71.77 25.4)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2376,7 +2376,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 47fcaae0-10d2-4112-bc95-8faf01ab0d4e)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0ee1ad0c-c04e-4172-95b9-f748d72b000a)
     )
@@ -2422,7 +2422,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 522f89a8-4e27-44d0-aa2d-5b3d106318d7)
-    (at 177.8 134.62)
+    (at 193.04 134.62)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190")
@@ -2435,11 +2435,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 28dd4369-fdc2-47b4-b964-5e91a99662d4)
     )
-    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 832d97af-d0c3-4107-ad84-3c9825861a8a)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp a225ede0-9d49-442b-99b6-fae632ae1d83)
     )
@@ -2466,7 +2466,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 57e84db7-bb98-45c0-903b-f8eab39e2808)
-    (at 106.68 109.22)
+    (at 25.05 33.02)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2478,7 +2478,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dfde25fb-b078-44fa-9ae3-8ba6ed630005)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c1dde0d-2eea-4dfa-8060-c52962e26cac)
     )
@@ -2524,7 +2524,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 5e7db12f-b5db-4de2-a4eb-eb686e81108a)
-    (at 78.54 152.99)
+    (at 63.5 154.94)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2536,11 +2536,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 64133113-e5c1-45e1-bbc7-9fd52a238bdd)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 54e563c2-9e15-469d-848e-06aa6a5ef800)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01d1488b-7a5b-43ef-b3a6-a3e8b2c72d97)
     )
@@ -2552,7 +2552,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 6006f48b-d134-4223-97b9-9d116293dbc5)
-    (at 159.21 149.55)
+    (at 243.84 111.29)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294")
@@ -2565,11 +2565,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4e907c64-2c15-4c1f-8ca7-64490b78e387)
     )
-    (fp_text value "0" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "0" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 930110aa-6e31-4fe7-a4d9-94434d007a26)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 35050ae3-0518-445b-95ed-558a87573fe1)
     )
@@ -2596,7 +2596,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 61bb0022-db7f-48d3-9f47-d07171a9a321)
-    (at 158.66 151.53)
+    (at 259.08 91.44)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -2639,7 +2639,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 65f90436-b7e6-4611-bdf5-7a6a2c12a247)
-    (at 85.99 143.94)
+    (at 25.4 58.42)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2651,7 +2651,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0a91037-9093-41bd-808b-a046c72249f4)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 856b280a-c740-4711-a02f-6481f624865b)
     )
@@ -2697,7 +2697,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 67a57ad5-a4a8-4e8b-abc7-b6a8c95d396d)
-    (at 152.86 153.53)
+    (at 169.67 144.78)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -2709,11 +2709,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 97ab0f68-ccd3-429d-9bb7-5f3c61401059)
     )
-    (fp_text value "1k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "1k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6dccb576-cd1d-4ce6-b3db-ec5acb6e1edf)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 86bb11eb-a020-459e-9674-24d958a9ee9f)
     )
@@ -2740,7 +2740,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 6cefa2a5-acfe-4ba2-b301-0004c2cc4ac4)
-    (at 81.59 152.99)
+    (at 73.66 152.99)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -2752,11 +2752,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3a924e79-c071-4710-9911-6ff8aa456795)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bce02c72-01d3-48b9-abf5-7df0204b7c27)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bbe71c69-366e-4b6c-a0d6-273da71d787f)
     )
@@ -2768,7 +2768,7 @@
 
   (footprint "Diode_SMD:D_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 6f66f502-1711-4914-9bf7-d62154c02059)
-    (at 150.485 149.55)
+    (at 142.24 134.62)
     (descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode")
     (property "Digikey" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EZA-EG2A50AX/1137235?s=N4IgTCBcDaIKYC8CGBaOBzMSCsAGJAHiALoC%2BQA")
@@ -2781,11 +2781,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d687283-e309-405d-94f9-a1fa44388b79)
     )
-    (fp_text value "D_TVS" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "D_TVS" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6fdb75ef-60df-4385-98ae-fea4dd943ca1)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp effcd2fb-3d9a-4b4a-a025-013e8f465151)
     )
@@ -2813,7 +2813,7 @@
 
   (footprint "SIM8060-6-0-14-00-A:GCT_SIM8060-6-0-14-00-A" (layer "F.Cu")
     (tedit 63C332C5) (tstamp 7470eee6-6bce-48bd-801a-ffd8dc8193c9)
-    (at 146.82 109.22 -90)
+    (at 246.38 99.06 -90)
     (property "DESCRIPTION" "SIM8060 is a hinged Sim Card Connector. With 6 contacts, with switch for card detection. Profile above PCB is 1.43mm.")
     (property "DIGI-KEY_PART_NUMBER" "")
     (property "DIGI-KEY_PURCHASE_URL" "")
@@ -2828,7 +2828,7 @@
       (effects (font (size 1.000969 1.000969) (thickness 0.15)))
       (tstamp 57644e44-ec3b-4671-a7bb-9f5163c04a58)
     )
-    (fp_text value "SIM8060-6-0-14-00-A" (at 8.911805 8.071155 -90) (layer "F.Fab")
+    (fp_text value "SIM8060-6-0-14-00-A" (at 8.911805 8.071155 -90) (layer "F.Fab") hide
       (effects (font (size 1.000764 1.000764) (thickness 0.15)))
       (tstamp cb6d3dbe-e5c1-4f15-aa20-1472fa8b9c45)
     )
@@ -2877,10 +2877,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 108.57)
-          (xy 144.22 109.87)
-          (xy 140.52 109.87)
-          (xy 140.52 108.57)
+          (xy 243.78 98.41)
+          (xy 243.78 99.71)
+          (xy 240.08 99.71)
+          (xy 240.08 98.41)
         )
       )
     )
@@ -2891,10 +2891,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 105.29)
-          (xy 144.22 107.73)
-          (xy 140.52 107.73)
-          (xy 140.52 105.29)
+          (xy 243.78 95.13)
+          (xy 243.78 97.57)
+          (xy 240.08 97.57)
+          (xy 240.08 95.13)
         )
       )
     )
@@ -2905,10 +2905,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 105.29)
-          (xy 144.22 107.73)
-          (xy 140.52 107.73)
-          (xy 140.52 105.29)
+          (xy 243.78 95.13)
+          (xy 243.78 97.57)
+          (xy 240.08 97.57)
+          (xy 240.08 95.13)
         )
       )
     )
@@ -2919,10 +2919,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 111.11)
-          (xy 151.24 112.41)
-          (xy 147.54 112.41)
-          (xy 147.54 111.11)
+          (xy 250.8 100.95)
+          (xy 250.8 102.25)
+          (xy 247.1 102.25)
+          (xy 247.1 100.95)
         )
       )
     )
@@ -2933,10 +2933,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 111.11)
-          (xy 151.24 112.41)
-          (xy 147.54 112.41)
-          (xy 147.54 111.11)
+          (xy 250.8 100.95)
+          (xy 250.8 102.25)
+          (xy 247.1 102.25)
+          (xy 247.1 100.95)
         )
       )
     )
@@ -2947,10 +2947,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 108.57)
-          (xy 151.24 109.87)
-          (xy 147.54 109.87)
-          (xy 147.54 108.57)
+          (xy 250.8 98.41)
+          (xy 250.8 99.71)
+          (xy 247.1 99.71)
+          (xy 247.1 98.41)
         )
       )
     )
@@ -2961,10 +2961,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 111.11)
-          (xy 144.22 112.41)
-          (xy 140.52 112.41)
-          (xy 140.52 111.11)
+          (xy 243.78 100.95)
+          (xy 243.78 102.25)
+          (xy 240.08 102.25)
+          (xy 240.08 100.95)
         )
       )
     )
@@ -2975,10 +2975,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 105.86)
-          (xy 151.24 107.16)
-          (xy 147.54 107.16)
-          (xy 147.54 105.86)
+          (xy 250.8 95.7)
+          (xy 250.8 97)
+          (xy 247.1 97)
+          (xy 247.1 95.7)
         )
       )
     )
@@ -2989,10 +2989,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 108.57)
-          (xy 144.22 109.87)
-          (xy 140.52 109.87)
-          (xy 140.52 108.57)
+          (xy 243.78 98.41)
+          (xy 243.78 99.71)
+          (xy 240.08 99.71)
+          (xy 240.08 98.41)
         )
       )
     )
@@ -3003,10 +3003,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 105.86)
-          (xy 151.24 107.16)
-          (xy 147.54 107.16)
-          (xy 147.54 105.86)
+          (xy 250.8 95.7)
+          (xy 250.8 97)
+          (xy 247.1 97)
+          (xy 247.1 95.7)
         )
       )
     )
@@ -3017,10 +3017,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 151.24 108.57)
-          (xy 151.24 109.87)
-          (xy 147.54 109.87)
-          (xy 147.54 108.57)
+          (xy 250.8 98.41)
+          (xy 250.8 99.71)
+          (xy 247.1 99.71)
+          (xy 247.1 98.41)
         )
       )
     )
@@ -3031,10 +3031,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 144.22 111.11)
-          (xy 144.22 112.41)
-          (xy 140.52 112.41)
-          (xy 140.52 111.11)
+          (xy 243.78 100.95)
+          (xy 243.78 102.25)
+          (xy 240.08 102.25)
+          (xy 240.08 100.95)
         )
       )
     )
@@ -3042,7 +3042,7 @@
 
   (footprint "Diode_SMD:D_SOD-123F" (layer "F.Cu")
     (tedit 587F7769) (tstamp 75263202-2a21-4961-8e18-002f40591a8b)
-    (at 58.42 71.12)
+    (at 58.92 68.02)
     (descr "D_SOD-123F")
     (tags "D_SOD-123F")
     (property "Digikey" "https://www.digikey.com/en/products/detail/panjit-international-inc/SS2030FL-R1-00001/14661129")
@@ -3055,11 +3055,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7de50acd-b77f-4645-9e31-ba72e05d4e97)
     )
-    (fp_text value "SS2030FL_R1_00001" (at 0 2.1) (layer "F.Fab")
+    (fp_text value "SS2030FL_R1_00001" (at 0 2.1) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f1ad68bb-5d7d-4fc7-9cd4-651a989ee2ad)
     )
-    (fp_text user "${REFERENCE}" (at -0.127 -1.905) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -0.127 -1.905) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b30cfe90-9e37-45a9-84cb-73d43262b09f)
     )
@@ -3094,7 +3094,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp 76163bf9-e7a9-4ad5-b9ec-11455a64e86d)
-    (at 92.93 83.8)
+    (at 22.86 45.72)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -3106,7 +3106,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 934cbce9-5353-40e8-84a2-2edab0653102)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9aa7eb5b-62c3-4bde-a67c-3b217a4b7e84)
     )
@@ -3152,7 +3152,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7c1b7e40-e59b-4795-a473-c6f423c0e251)
-    (at 86.02 140.69)
+    (at 101.6 116.84)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA")
@@ -3165,11 +3165,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c725a4ac-af55-4809-a868-208d430b56f3)
     )
-    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab")
+    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 65e8ca16-01ad-4c7b-adbf-33b81a2c7d6f)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp 7220b26b-8420-41c3-b601-d7cd0b3b6716)
     )
@@ -3196,7 +3196,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 80bc3226-da46-45ff-bbaf-fe21a7c0fcf4)
-    (at 95.7 148.27)
+    (at 109.22 152.4)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "DNP")
@@ -3209,11 +3209,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cd8ad0af-f681-4790-a300-b0b0cd3adef8)
     )
-    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "DNP" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d768f66a-b13d-4824-acb8-af6d985c5c5c)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 73dd3d90-50df-405d-9bfa-24c450f7c5c3)
     )
@@ -3240,7 +3240,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 81d64f57-b1a7-4e1a-8b75-df29fcc432d5)
-    (at 89.69 143.79)
+    (at 43.18 142.24)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -3252,11 +3252,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 897d6e3e-0f16-4460-b3a2-d77f2bfcc9ab)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 075bb12e-5de4-43ab-8e3c-8cd58644be5d)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5485e90c-c23e-4cfc-b5ba-bd68bf840e4e)
     )
@@ -3268,7 +3268,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 823be7e0-c94a-4b7a-9f26-4064932cc14a)
-    (at 74.81 149.39)
+    (at 106.68 116.84)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA")
@@ -3277,15 +3277,15 @@
     (property "Sheetname" "")
     (path "/16448f46-58ad-4f04-a0e8-40bfa7cc6142")
     (attr smd)
-    (fp_text reference "FB1" (at 0 -1.65) (layer "F.SilkS")
+    (fp_text reference "FB1" (at 0 -1.55) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp add0fa05-1d9b-4864-8914-01a6b41110f4)
     )
-    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab")
+    (fp_text value "FerriteBead" (at 0 1.65) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8dc9d4ad-a9c3-460a-8776-899c0195b36a)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.5 0.5) (thickness 0.08)))
       (tstamp 37b50b66-f25e-4dd2-9aec-d9d34053ee09)
     )
@@ -3312,7 +3312,7 @@
 
   (footprint "U_fl_conn:HRS_U.FL-R-SMT(10)" (layer "F.Cu")
     (tedit 63C380C7) (tstamp 8242378d-d71d-4da5-a167-ec8e363e5e1b)
-    (at 81.745 141.99)
+    (at 73.66 129.54)
     (descr "U.FL Series 50 Ohm Receptacle Male Pins Ultra Small SMT Coaxial Connector")
     (property "AVAILABILITY" "Unavailable")
     (property "DESCRIPTION" "U.FL Series 50 Ohm Receptacle Male Pins Ultra Small SMT Coaxial Connector")
@@ -3329,7 +3329,7 @@
       (effects (font (size 0.801331 0.801331) (thickness 0.15)))
       (tstamp e10b97e0-743d-462b-b823-8fbd8b849824)
     )
-    (fp_text value "U.FL-R-SMT" (at 6.64582 3.09284) (layer "F.Fab")
+    (fp_text value "U.FL-R-SMT" (at 6.64582 3.09284) (layer "F.Fab") hide
       (effects (font (size 0.80022 0.80022) (thickness 0.15)))
       (tstamp 0f2d443c-58de-456a-ac5e-60216ce0aa28)
     )
@@ -3361,10 +3361,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 80.745 141.04)
-          (xy 83.045 141.04)
-          (xy 83.045 142.94)
-          (xy 80.745 142.94)
+          (xy 72.66 128.59)
+          (xy 74.96 128.59)
+          (xy 74.96 130.49)
+          (xy 72.66 130.49)
         )
       )
     )
@@ -3375,10 +3375,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 80.745 141.04)
-          (xy 83.045 141.04)
-          (xy 83.045 142.94)
-          (xy 80.745 142.94)
+          (xy 72.66 128.59)
+          (xy 74.96 128.59)
+          (xy 74.96 130.49)
+          (xy 72.66 130.49)
         )
       )
     )
@@ -3386,7 +3386,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8294ca57-9a85-4ea9-9885-d7474b67090c)
-    (at 157.48 157.48)
+    (at 177.8 144.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -3399,11 +3399,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 725e47d5-0ed5-4fb4-ac3e-4899df1f6f4e)
     )
-    (fp_text value "2.2uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "2.2uF" (at 0 1.1) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da342f88-ff34-4f88-b271-78a74b352ca2)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 7cbbc51b-b2e9-428b-ab0e-1b94de32f883)
     )
@@ -3430,7 +3430,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 843dd550-d672-4765-9c12-e31e4d7caec2)
-    (at 149.95 153.1)
+    (at 170.18 139.7)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "")
@@ -3443,11 +3443,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 64b98a34-897e-479a-9d3b-f13983f97ef6)
     )
-    (fp_text value "182k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "182k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ee09e7bd-fa8c-4205-b92e-1ad9b2777c5c)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 2f1d88fe-34fc-4e29-a5aa-5ca8e10b03dd)
     )
@@ -3474,7 +3474,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 86325809-c3f7-4a46-b8c5-3639e68f8f65)
-    (at 151.95 155.52)
+    (at 165.1 149.86)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "")
@@ -3487,11 +3487,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4114b099-40a9-4160-9606-4342fcb0e2ab)
     )
-    (fp_text value "1.24M" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "1.24M" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b29b6201-555c-4244-bcbb-b6e65541e8cc)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 0bdd21d5-46e8-4752-9de5-75f1033ae8bb)
     )
@@ -3531,11 +3531,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ff984466-afa4-45c3-becf-a5f7518425b9)
     )
-    (fp_text value "1 uH" (at 0 3) (layer "F.Fab")
+    (fp_text value "1 uH" (at 0 3) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 358ba5c4-1eb5-4106-ac41-35673190cad6)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f98fc475-b21f-4613-bc9f-8cca4362b999)
     )
@@ -3562,7 +3562,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 8c70076e-b59c-41aa-97e3-280d7aea7496)
-    (at 92.74 146.84)
+    (at 104.14 175.26)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -3570,15 +3570,15 @@
     (property "exclude_from_bom" "")
     (path "/8a12997f-979d-4dd0-91a7-b48684bfa69e")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "TP6" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP6" (at 0 -2.538) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eb603b3d-0366-4c4b-aa65-8d2236340486)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at -5.555454 -3.05) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 362e75f6-b09c-40bd-83e4-f22b33241c40)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -2.54) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8604880b-54e6-4f76-8be6-30a2c9ccc79e)
     )
@@ -3590,7 +3590,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp 90c35a88-36d3-4757-ae82-7a28a6833c02)
-    (at 146.62 150.33)
+    (at 25.4 38.1)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -3602,7 +3602,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f76cebd-6c6f-4e4c-aac8-90d64760b350)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 49a6723f-17bf-4b7b-8732-4d8397712a60)
     )
@@ -3654,29 +3654,29 @@
 
   (footprint "ul_DTC043TEBTL:DTC043TEBTL" (layer "F.Cu")
     (tedit 0) (tstamp 98a00bce-cbf3-4fb5-8e2e-93a724e1033c)
-    (at 146.6422 132.72135)
+    (at 88.7984 183.7309)
     (property "MPN" "DTC043TEBTL")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
     (property "Sheetname" "")
     (path "/1a4c054c-b616-48a3-a8f0-785d2c62e39f")
     (attr through_hole)
-    (fp_text reference "VT3" (at 0 0) (layer "F.SilkS")
+    (fp_text reference "VT3" (at 0 4.2291) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 81b4744a-d111-4937-bcb1-083ff12de4a8)
     )
-    (fp_text value "DTC043TEBTL" (at 0 0) (layer "F.SilkS")
+    (fp_text value "DTC043TEBTL" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 980eb37c-dffe-48ff-b1a5-991124921950)
     )
-    (fp_text user "*" (at 0 0) (layer "F.SilkS")
+    (fp_text user "*" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 94c18236-16b6-4c30-980e-71164d1a928e)
     )
-    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User")
+    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User") hide
       (effects (font (size 0.127 0.127) (thickness 0.002)))
       (tstamp 73e88e78-d7f4-4fba-a1c3-afc42f9ebb88)
     )
-    (fp_text user "*" (at 0 0) (layer "F.Fab")
+    (fp_text user "*" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 694d7104-01a1-4a4a-9139-5283636405b0)
     )
@@ -3800,7 +3800,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9ab9156e-a503-4d41-8bc9-43ea740132d7)
-    (at 154.61 157.5)
+    (at 93.98 185.42)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -3812,11 +3812,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 39693a93-9249-41db-ae81-0e54d4fdfde8)
     )
-    (fp_text value "470" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "470" (at 0 2.54) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 21dfae25-8802-4f50-8a65-26cea24e485f)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp f00a1eb6-d1a8-456c-aae6-965e787fba10)
     )
@@ -3843,7 +3843,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp 9b19b859-db00-4c84-9e3b-bac24b341f4e)
-    (at 76.2 129.54)
+    (at 30.48 43.18)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -3855,7 +3855,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 16620873-b1e3-451f-8dff-c2da45e93a38)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 27d76eb3-f13c-4494-9a03-02a6e0334958)
     )
@@ -3907,7 +3907,7 @@
 
   (footprint "Diode_SMD:D_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 9b1d324a-c671-42b1-abac-f1d04ba911de)
-    (at 146.135 155.69)
+    (at 165.1 142.24)
     (descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode")
     (property "Digikey" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/EZA-EG2A50AX/1137235?s=N4IgTCBcDaIKYC8CGBaOBzMSCsAGJAHiALoC%2BQA")
@@ -3920,11 +3920,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 11705378-f65c-49c7-b3eb-a7df95efee88)
     )
-    (fp_text value "D_TVS" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "D_TVS" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e6034280-f155-4f1a-abc6-91a3044da208)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 4dd68ead-151e-49d5-a9b7-3b4efba03505)
     )
@@ -3952,7 +3952,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9be6f851-357a-4266-bda9-bbef1339ef0f)
-    (at 70.96 95.68)
+    (at 48.26 73.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A475MP5NRNC/3887140")
@@ -3965,11 +3965,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 27632b4a-6eef-4829-901b-c866f3920587)
     )
-    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "4.7uF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d8646e33-82bb-4aed-be91-ba4a960775fd)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp cbb4c90f-7044-46e7-8d81-dbd4889e9d56)
     )
@@ -3996,7 +3996,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9c7d33ae-a88e-4ae2-86b5-c6f46731cc56)
-    (at 154.57 159.66)
+    (at 187.96 144.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -4008,11 +4008,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 15a6b132-5a2c-4b13-bfe7-68d6158ee6e3)
     )
-    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1cf76c13-2c7c-49db-be83-6e2188bcbaf6)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp e3afb7d9-2836-4ac2-8d8f-d1ad7a36e93c)
     )
@@ -4039,7 +4039,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9fdb0e19-c2ce-4bf3-867e-df25d04b75dd)
-    (at 78.05 155.5)
+    (at 50.8 162.56)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -4052,11 +4052,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 34bbc6ef-b9e6-4879-b963-7b27195c2a8f)
     )
-    (fp_text value "10pF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "10pF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 94cfb0c3-1891-4e72-9403-a313e6d8ed15)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 5748ce9e-1a73-45eb-b334-ae85f1197c2c)
     )
@@ -4083,7 +4083,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9fef9b03-8638-4e0e-a2df-36d9f09be9a1)
-    (at 155.75 153.52)
+    (at 261.62 114.3)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -4095,11 +4095,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3e14de48-2af9-4c56-bcac-8ca944772e16)
     )
-    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4cf48861-fac5-4b00-8d21-ba6f37779bd2)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 30186f98-7386-4c9a-bacf-3473cf955b8f)
     )
@@ -4126,7 +4126,7 @@
 
   (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T" (layer "F.Cu")
     (tedit 5EBA9318) (tstamp a220771f-5347-4c5c-a250-d9887a0832cc)
-    (at 75.625 145.74)
+    (at 86.36 127)
     (descr "Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
     (tags "capacitor tantalum")
     (property "Digikey" "https://www.digikey.com/en/products/detail/kemet/T490B337M006ATE800/5267626?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogDMNcABAK0BiIpdjr7t9zbHPt0Fc2AXVIAHAC5QQAVQB2AS2kB5TAFlC2fAFcAToRABfUvADsKaCAyQcBEuSogAbAwBqICSBlylqhrauobGZiAAtDCotlDSBnpOFJDUAKze4RHW6HEJSS4QYibFQA")
@@ -4139,11 +4139,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 84dc31d8-edb1-4fba-a0d7-5f63f09612ac)
     )
-    (fp_text value "C_Polarized_US" (at 0 2.35) (layer "F.Fab")
+    (fp_text value "C_Polarized_US" (at 0 2.35) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7455fd69-97f3-453b-8c75-fc3ebdc5bca4)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.88 0.88) (thickness 0.13)))
       (tstamp 56a6399c-f74b-49d7-9c6a-1e3f1d87ba6e)
     )
@@ -4172,7 +4172,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp a4365b17-b79e-46ab-9eeb-d04a1fe6f63d)
-    (at 92.8 140.74)
+    (at 68.58 142.24)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4184,11 +4184,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d0b92ad0-6445-45a2-8af8-4e0dd1c632ca)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e5f0688d-7409-440e-b00b-a980c2dd5502)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6e430e46-da48-4e07-8060-59a417a7646d)
     )
@@ -4200,7 +4200,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp a9771c45-27bc-490b-9494-cee0c537d970)
-    (at 78.66 90.9)
+    (at 38.1 25.4)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4212,7 +4212,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d3af3150-83ee-4368-ac25-c6a9cd476a38)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 02a020d4-e09e-4587-90b9-53b2ab9a6c59)
     )
@@ -4258,7 +4258,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a97efef9-c95b-4e68-b704-7df906679219)
-    (at 145.9 157.68)
+    (at 233.68 104.14)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294")
@@ -4271,11 +4271,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 05fc4b60-b716-4eb1-a871-68c96292d194)
     )
-    (fp_text value "0" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "0" (at -15.18 10.24) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 656e4b98-5464-4b50-bb27-73a2f87febf3)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 1df1b300-b13b-4601-a05b-45201fd3807e)
     )
@@ -4302,7 +4302,7 @@
 
   (footprint "Diode_SMD:D_SOD-123F" (layer "F.Cu")
     (tedit 587F7769) (tstamp b58f149b-8892-4cda-a9e0-8ed71c252ec2)
-    (at 74.985 83.7)
+    (at 57.28 60.96)
     (descr "D_SOD-123F")
     (tags "D_SOD-123F")
     (property "Digikey" "https://www.digikey.com/en/products/detail/panjit-international-inc/SS2030FL-R1-00001/14661129")
@@ -4315,11 +4315,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8dc3f4c9-e853-4f85-bdc6-7d84cedfea32)
     )
-    (fp_text value "SS2030FL_R1_00001" (at 0 2.1) (layer "F.Fab")
+    (fp_text value "SS2030FL_R1_00001" (at 0 2.1) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0d846164-d300-4443-ae26-c6620b0b7151)
     )
-    (fp_text user "${REFERENCE}" (at -0.127 -1.905) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -0.127 -1.905) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6fc8344-3db7-41a3-ad6f-329ba816e22a)
     )
@@ -4354,7 +4354,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp b781710a-4629-4855-96f6-6a8ba7885e71)
-    (at 87.36 90.9)
+    (at 60.96 25.4)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4366,7 +4366,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 423a8c20-2dec-4292-ac58-43efb7c96154)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 58a125a5-9b6e-48ff-936b-a7e79a34e698)
     )
@@ -4418,7 +4418,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp b82d1767-7a55-40f6-b66d-4943d9c176f9)
-    (at 146.49 153.4)
+    (at 168.4275 134.62)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Digikey" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060BS75000/4489895")
@@ -4431,11 +4431,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5cb9ab7c-c6b8-4489-8f95-811d8cf8ea51)
     )
-    (fp_text value "BLUE" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "BLUE" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d5abba51-df81-4c6b-ae4f-0e75a05b0872)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp 35bded27-b6c8-48cb-b539-17ed5e31a466)
     )
@@ -4464,7 +4464,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b969d065-7fd5-4cfa-9f8f-49fc4e0de3bc)
-    (at 80.92 155.5)
+    (at 76.2 167.64)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -4477,11 +4477,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2c68bedd-f797-4a4f-b899-aaaed256f23c)
     )
-    (fp_text value "33pF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "33pF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4bc01a96-14d2-4cdb-b3fd-a800e66b13d9)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp ab026c64-778f-4204-931b-11ae0a49d911)
     )
@@ -4508,7 +4508,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c1f5f6f3-77aa-4e52-af62-3f3791f13987)
-    (at 177.8 132.11)
+    (at 193.04 139.7)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190")
@@ -4521,11 +4521,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 92958d02-c06a-4d0a-bf23-c29d1be39334)
     )
-    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ab07ee8a-ac1a-4b9f-b699-b4b7d872d510)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp 7f339271-8be3-40e0-8f00-9f8c0bba2c78)
     )
@@ -4552,7 +4552,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c5343ef7-994c-4431-b541-5ed10bb27fd0)
-    (at 157.71 155.49)
+    (at 259.08 94.85)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -4595,7 +4595,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c9073d20-e999-468d-a317-d78b738b7db0)
-    (at 87.6 154.37)
+    (at 86.36 167.64)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -4608,11 +4608,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e45743f3-76fd-44be-b0fc-2ab3b7f1653b)
     )
-    (fp_text value "10pF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "10pF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08a55172-1188-4245-95b8-6453eb488c1a)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 3ce90639-8314-4488-bab5-96a655146344)
     )
@@ -4639,7 +4639,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c9279b87-bbe2-4a91-b7c3-7cc8bd1e855e)
-    (at 181.81 134.62)
+    (at 182.105 139.7)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190")
@@ -4652,11 +4652,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d809ab6-c2cb-4d8c-a140-4318da9e8f8d)
     )
-    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "22uF" (at 0 1.43) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aac3a187-2dee-475f-a8c1-9288d2afff29)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.4 0.4) (thickness 0.06)))
       (tstamp 5cb8af2b-3e01-476d-bce7-e36dcd12e004)
     )
@@ -4683,7 +4683,7 @@
 
   (footprint "SMF05C:SC70-6" (layer "F.Cu")
     (tedit 63C33657) (tstamp cec7c173-1aad-4c32-bdbd-b6c20705c86b)
-    (at 160.02 114.3)
+    (at 259.08 104.14)
     (descr "<b>6-Lead Thin Shrink Small Outline Transistor Package SC70</b><p>Source: http://www.analog.com/static/imported-files/data_sheets/ADA4853-1_4853-2_4853-3.pdf")
     (property "MPN" "SMF05C.TCT")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4824,7 +4824,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp cf011c7a-b2b9-4ae6-ba65-b4eacb2fbb9a)
-    (at 78.66 87.35)
+    (at 45.72 20.32)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4836,7 +4836,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9920abab-4619-4f9b-84cc-4ad643290bd5)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a1c75eaf-5340-4143-a0c4-fa802f26ffa4)
     )
@@ -4882,7 +4882,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp cf6435b6-ce4a-4895-9fd2-7fb595f4604c)
-    (at 88.58 83.8)
+    (at 18.51 45.72)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4894,7 +4894,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp de73665b-9217-4b8d-85db-3579598e1bfe)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 846050ee-aed3-4f92-adc0-49f8b1cd874a)
     )
@@ -4946,7 +4946,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp d0e064af-3acc-4ed4-8a74-7189ebb8b9e4)
-    (at 88.99 149.89)
+    (at 96.52 165.1)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4954,15 +4954,15 @@
     (property "exclude_from_bom" "")
     (path "/b50c30ba-3e1b-4da2-9b83-9c8e3fdedc16")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "TP12" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP12" (at 0.344849 -2.57) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a82c685-7ff5-4297-b179-8c1fb5509bb3)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4b9b82d3-b914-47a4-ab0a-514bd7d13c44)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 29.291819 9.81) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 38c5eb37-58e8-423d-b1a3-90dd1ed68b63)
     )
@@ -4974,7 +4974,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5C745284) (tstamp d23486a7-767c-4c76-92e1-c3e4d4ed6c9f)
-    (at 77.53 94.45)
+    (at 38.1 33.02)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -4986,7 +4986,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 54e4dd1e-cdc0-49e8-9df7-9ce6449b3c90)
     )
-    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Bridged" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a2b6b2a9-50b0-4024-b910-8108d5e1017e)
     )
@@ -5038,7 +5038,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d455a68b-fd01-4960-8048-3e39e647ee51)
-    (at 161.53 151.53)
+    (at 264.16 91.44)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -5081,7 +5081,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp d5287f94-eb59-4f43-bf05-5aedc8acde43)
-    (at 95.85 140.74)
+    (at 93.98 129.54)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5093,11 +5093,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7907d1d0-8391-45f8-b94d-e71a5c1b7f5a)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at -31.617575 8.13) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f5985884-0daa-46ce-9c7e-86fdffa0b33e)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fa7b5021-2269-4b65-8062-63475aa8183e)
     )
@@ -5109,7 +5109,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d9f27d8f-73c6-479e-be3d-eb7355d785de)
-    (at 145.9 159.67)
+    (at 236.22 111.76)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Digikey" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294")
@@ -5122,11 +5122,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5999f864-0198-4096-8421-a059e24f79a2)
     )
-    (fp_text value "0" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "0" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bf3622ec-545f-4604-8eb0-e3ac816b07c7)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 4a360715-ca70-4c7c-833e-fc76052690d4)
     )
@@ -5153,7 +5153,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp dbc441f5-9fdd-4803-be57-52b9b3c8a209)
-    (at 73.18 92.92)
+    (at 50.8 42.12)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5165,7 +5165,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 53181285-3c34-4a8a-b412-b5309d1dd556)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c9023774-badc-4f1d-8c53-eabd2abc5f85)
     )
@@ -5211,7 +5211,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp e606e5b0-d2e1-4ffa-bf8f-3eccdf918a7e)
-    (at 87.36 87.35)
+    (at 30.48 27.94)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5223,7 +5223,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 878fc910-90dc-49ab-8062-deba75f7d6a6)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fca9b2cd-4060-47ae-a4e9-0f65b6a6672f)
     )
@@ -5284,7 +5284,7 @@
       (effects (font (size 0.801331 0.801331) (thickness 0.15)))
       (tstamp be7c6d93-7c28-4ead-b390-0d716a6e7769)
     )
-    (fp_text value "U.FL-R-SMT(10)" (at 6.64582 3.09284) (layer "F.Fab")
+    (fp_text value "U.FL-R-SMT(10)" (at 6.64582 3.09284) (layer "F.Fab") hide
       (effects (font (size 0.80022 0.80022) (thickness 0.15)))
       (tstamp fcaee6cb-2ac8-47c5-9c92-039f436bacc8)
     )
@@ -5341,7 +5341,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp eb8c0b55-9dfc-4ed4-95ba-de8f77617f88)
-    (at 148.81 159.67)
+    (at 183.39 144.78)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "MPN" "")
@@ -5353,11 +5353,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f17b90ed-f108-4d1b-b7d7-0939867bdebc)
     )
-    (fp_text value "10k" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "10k" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f4a170a5-ceed-4c13-a9cd-ed38bd150bfd)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.26 0.26) (thickness 0.04)))
       (tstamp 4fb23f3c-cae3-456d-9767-e364727b5f27)
     )
@@ -5384,7 +5384,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ebbfbc00-7e7f-47b9-aaf4-11ab49bb739c)
-    (at 154.84 155.51)
+    (at 180.34 149.86)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -5397,11 +5397,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 027dfab6-9ec9-405a-9dc2-d917c61b782e)
     )
-    (fp_text value "0.1uF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1uF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4075fc29-d6b7-4d34-943c-a468b7ebc1d9)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 4726d5e3-aba3-4fcc-990d-004cac1cff58)
     )
@@ -5428,7 +5428,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ebf7725c-bb83-4c7f-ae5f-b263d79d32b7)
-    (at 151.7 159.66)
+    (at 150.34 170.18)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "")
@@ -5440,11 +5440,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c5eeedb-ff2b-416f-9473-5e59dda62479)
     )
-    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "0.1" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 02ae9c77-c920-4650-a4da-48d99eac7772)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 2be5ad86-7f0b-45ed-8118-7bea58395243)
     )
@@ -5471,7 +5471,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp f387efcb-63c7-4b30-b4eb-bb29b957c86b)
-    (at 89.69 146.84)
+    (at 113.587273 155.56)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5479,15 +5479,15 @@
     (property "exclude_from_bom" "")
     (path "/32a67eaf-2baa-4189-9a7a-cc8d78d95762")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "TP9" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP9" (at 0 -2.54) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0710ae77-d4aa-4220-999f-c5a460e65501)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d9e7afa6-7808-41e1-9fb9-f597ed4173ce)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -53.815454 3.02) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c45be7d6-1159-4c60-9ea2-5940d9291ecb)
     )
@@ -5499,7 +5499,7 @@
 
   (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T" (layer "F.Cu")
     (tedit 5EBA9318) (tstamp f9082850-e9fa-40cd-8117-736e36aba173)
-    (at 75.625 141.39)
+    (at 99.06 106.68)
     (descr "Tantalum Capacitor SMD Kemet-T (3528-12 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
     (tags "capacitor tantalum")
     (property "Digikey" "https://www.digikey.com/en/products/detail/kemet/T490B337M006ATE800/5267626?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogDMNcABAK0BiIpdjr7t9zbHPt0Fc2AXVIAHAC5QQAVQB2AS2kB5TAFlC2fAFcAToRABfUvADsKaCAyQcBEuSogAbAwBqICSBlylqhrauobGZiAAtDCotlDSBnpOFJDUAKze4RHW6HEJSS4QYibFQA")
@@ -5512,11 +5512,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e3092d06-e729-4b1a-baeb-dfd99f01b98b)
     )
-    (fp_text value "C_Polarized_US" (at 0 2.35) (layer "F.Fab")
+    (fp_text value "C_Polarized_US" (at 0 2.35) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 74827121-ff43-4944-abd8-0daf1b9219f3)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.88 0.88) (thickness 0.13)))
       (tstamp 421c51ff-feb9-4987-81f9-953bd7c8787b)
     )
@@ -5545,7 +5545,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (layer "F.Cu")
     (tedit 5B391E66) (tstamp fb3ac5cf-0296-41eb-8e9c-6d8a6c2d672c)
-    (at 79.88 83.8)
+    (at 36.21 20.32)
     (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5557,7 +5557,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 63839464-ae6d-4058-a9b7-75ea5aede3b9)
     )
-    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab")
+    (fp_text value "SolderJumper_2_Open" (at 0 1.9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 37e88371-91eb-4a7c-8f4f-04514087abd0)
     )
@@ -5603,7 +5603,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp fb7a8981-398f-49f5-a8fe-e19cd8253d85)
-    (at 82.89 149.24)
+    (at 116.84 165.1)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5611,15 +5611,15 @@
     (property "exclude_from_bom" "")
     (path "/21548220-a715-480e-8cfa-d9d1fe9698e0")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "TP4" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP4" (at 0 -2.54) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3aa6b44a-d1f9-45fb-9d6b-c572194c3a6b)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 463daf89-db5b-4c8c-814c-5f90d4973a4a)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at -27.753333 -3.91) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ff11a15-bc3e-4a61-abe8-300efc499662)
     )
@@ -5631,7 +5631,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp fdb4c380-1246-4a74-b753-b5d262d43384)
-    (at 84.64 153.34)
+    (at 82.81303 153.34)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5643,11 +5643,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2945a76b-b555-474d-83ed-1da05cb6992c)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at -4.152121 13.69) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f07781c9-624d-4216-9987-c9b4aa08a9ea)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d72fbf2-91dc-43ba-a6ed-4cab01312dec)
     )
@@ -5659,7 +5659,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ff6e3ab8-7bee-435d-82b6-2b93faf9f6b0)
-    (at 162.1 149.54)
+    (at 177.8 134.62)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Digikey" "")
@@ -5672,11 +5672,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45736ac2-7ad7-4dca-aade-e55562b2658a)
     )
-    (fp_text value "100pF" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100pF" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 30fa0061-acf1-4f79-8387-b034a9cecda1)
     )
-    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 0.25 0.25) (thickness 0.04)))
       (tstamp 1f1742c2-7d56-4238-b04c-730042c1ff87)
     )
@@ -5703,7 +5703,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp ff8ee2f9-8c40-4387-9146-471f44615d39)
-    (at 89.75 140.74)
+    (at 35.56 142.24)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5715,11 +5715,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 82f37006-a584-4b30-905f-7742d6cf3c37)
     )
-    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint" (at 0 1.55) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 61b291d6-0790-4585-97c9-914daa905d70)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ff501e9a-d188-4b1c-b7af-d584ae94f377)
     )
@@ -5731,7 +5731,7 @@
 
   (footprint "TSM-116-01-L-SV:SAMTEC_TSM-116-01-L-SV" (layer "B.Cu")
     (tedit 63C34002) (tstamp 191bc690-4ba3-4d26-9edd-91f93ca6e16e)
-    (at 114.3 93.04 -90)
+    (at 35.56 96.52 -90)
     (property "MANUFACTURER" "SAMTEC")
     (property "MPN" "TSM-116-01-L-SV")
     (property "Sheetfile" "cellular-featherwing-pcb.kicad_sch")
@@ -5742,7 +5742,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 04a14ed5-0f78-4936-8759-bb0f8d9e1c05)
     )
-    (fp_text value "TSM-116-01-L-SV" (at -6.35 -4.805 90) (layer "B.Fab")
+    (fp_text value "TSM-116-01-L-SV" (at -6.35 -4.805 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d3b62c8b-8f22-45a1-9b88-80f82da660fe)
     )
@@ -5806,31 +5806,31 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 45a89dd0-1db1-4d1f-a0ba-7b11294c57ed)
     )
-    (fp_text value "SN74AHC1G09DCKR" (at 0 -5.08) (layer "B.SilkS")
+    (fp_text value "SN74AHC1G09DCKR" (at 0 -5.08) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 10ff66c5-6d36-491c-a751-23ba14de82f7)
     )
-    (fp_text user "Designator126" (at 0 5.08) (layer "B.SilkS")
+    (fp_text user "Designator126" (at 0 5.08) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 205f1b86-52dd-4d10-996a-2fb8855cb48b)
     )
-    (fp_text user "*" (at 0 0) (layer "B.SilkS")
+    (fp_text user "*" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3d40579b-bcf5-4348-b36b-9ed0da398aa7)
     )
-    (fp_text user ".Designator" (at 7.62 0.9144 90) (layer "Cmts.User")
+    (fp_text user ".Designator" (at 7.62 0.9144 90) (layer "Cmts.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 107ca810-2458-43d3-833e-e58cc4e1daa0)
     )
-    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User")
+    (fp_text user "Copyright 2021 Accelerated Designs. All rights reserved." (at 0 0) (layer "Cmts.User") hide
       (effects (font (size 0.127 0.127) (thickness 0.002)))
       (tstamp c1dc0089-32d0-4046-80f3-2366d5dbd0ce)
     )
-    (fp_text user "*" (at 0 0) (layer "B.Fab")
+    (fp_text user "*" (at 0 0) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1d251277-d7d0-481a-9698-db4dd2b0c386)
     )
-    (fp_text user ".Designator" (at -7.62 0.762 90) (layer "B.Fab")
+    (fp_text user ".Designator" (at -7.62 0.762 90) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d1c65adb-0438-4686-ae33-e3ac1e768d0b)
     )
@@ -5916,7 +5916,7 @@
       (effects (font (size 0.64 0.64) (thickness 0.15)) (justify mirror))
       (tstamp f6e08bcf-f2b5-40a1-9f30-fd14269b08d0)
     )
-    (fp_text value "TPS63020QDSJTQ1" (at 4.096 -3.1564) (layer "B.Fab")
+    (fp_text value "TPS63020QDSJTQ1" (at 4.096 -3.1564) (layer "B.Fab") hide
       (effects (font (size 0.64 0.64) (thickness 0.15)) (justify mirror))
       (tstamp 07864168-967c-441e-a95c-a3a88b08a091)
     )
@@ -7852,11 +7852,11 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0d0d7202-5664-4ce0-a79a-cdc42e933acc)
     )
-    (fp_text value "TXB0108DQSR" (at 0 -3.5) (layer "B.Fab")
+    (fp_text value "TXB0108DQSR" (at 0 -3.5) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 29934090-b087-4860-8eee-6a912f1fe7ed)
     )
-    (fp_text user "${REFERENCE}" (at 0 0 90) (layer "B.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0 90) (layer "B.Fab") hide
       (effects (font (size 0.9 0.9) (thickness 0.15)) (justify mirror))
       (tstamp 288fd222-670f-499f-a866-32963e280edc)
     )
@@ -7931,7 +7931,7 @@
       (effects (font (size 0.64 0.64) (thickness 0.15)) (justify mirror))
       (tstamp 6eb9701a-744a-4566-a9a2-247a933d99f4)
     )
-    (fp_text value "MAX8868EUK30+T" (at 4.5024 -2.1936) (layer "B.Fab")
+    (fp_text value "MAX8868EUK30+T" (at 4.5024 -2.1936) (layer "B.Fab") hide
       (effects (font (size 0.64 0.64) (thickness 0.15)) (justify mirror))
       (tstamp 3fa08443-6c4b-4b8a-ac14-5b56302d7d08)
     )
@@ -7980,7 +7980,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a517cedb-a329-41fd-9f3d-010144fd6ceb)
     )
-    (fp_text value "TSM-112-01-L-SV" (at -1.27 -4.805 270) (layer "B.Fab")
+    (fp_text value "TSM-112-01-L-SV" (at -1.27 -4.805 270) (layer "B.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bfab1f7c-4d8f-4856-bf42-1310e7e7c20c)
     )

@@ -7904,7 +7904,7 @@
     (property "Digikey" "https://www.digikey.com/en/products/detail/texas-instruments/TPS63020QDSJTQ1/5800297" (id 13) (at 96.52 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "TPS63020QDSJTQ1" (id 6) (at 96.52 57.15 0)
+    (property "MPN" "TPS63020QDSJTQ1" (id 14) (at 96.52 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c0e93c80-5c88-4b17-ba55-2dffbf069cd3))
