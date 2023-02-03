@@ -1997,7 +1997,6 @@
     )
   )
 
-
   (junction (at 224.79 247.65) (diameter 0) (color 0 0 0 0)
     (uuid 0809fa4b-0bed-429c-aab2-1e4359898050)
   )
@@ -4630,12 +4629,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PACKAGE" "Package Analog Devices" (id 4) (at 121.92 110.49 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "DIGI-KEY_PART_NUMBER" "" (id 5) (at 121.92 110.49 0)
-      (effects (font (size 1.27 1.27)) (justify bottom) hide)
-    )
-    (property "DIGI-KEY_PURCHASE_URL" "" (id 6) (at 121.92 110.49 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "MF" "Global Connector Technology" (id 7) (at 121.92 110.49 0)
