@@ -1,30 +1,30 @@
-Item,Qty,Reference(s),Value,Footprint,Description,Digikey,JLCPCB,MPN
-1,5,"C1, C2, C6, C7, C8",22uF,Capacitor_SMD:C_0603_1608Metric,22 uF 0402 Capacitor,https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190,,GCM1885C2A220JA16D
-2,1,C3,2.2uF,Capacitor_SMD:C_0402_1005Metric,2.2 uF 0402 Capacitor,,,CL05A225MQ5NSNC
-3,4,"C4, C11, C29, C34",0.1uF,Capacitor_SMD:C_0402_1005Metric,0.1 uF 0402 Capacitor,,,CL05B104KO5NNNC
-4,5,"C16, C17, C18, C22, C23",33pF,Capacitor_SMD:C_0402_1005Metric,33 pF 0402 Capacitor,,,0402CG330J500NT
-5,2,"C20, C21",100nF,Capacitor_SMD:C_0402_1005Metric,100 nF 0402 Capacitor,,,CL05B104KO5NNNC
-6,2,"C24, C25",10pF,Capacitor_SMD:C_0402_1005Metric,10 pF 0402 Capacitor,,,CL05C100JB5NNNC
-7,2,"C26, C28",C_Polarized_US,Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T,330 µF Molded Tantalum Capacitors 6 V 1411 (3528 Metric) 800mOhm,https://www.digikey.com/en/products/detail/kemet/T490B337M006ATE800/5267626?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogDMNcABAK0BiIpdjr7t9zbHPt0Fc2AXVIAHAC5QQAVQB2AS2kB5TAFlC2fAFcAToRABfUvADsKaCAyQcBEuSogAbAwBqICSBlylqhrauobGZiAAtDCotlDSBnpOFJDUAKze4RHW6HEJSS4QYibFQA,,T490B337M006ATE800
-8,3,"C30, C31, C33",4.7uF,Capacitor_SMD:C_0402_1005Metric,4.7 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric),https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A475MP5NRNC/3887140,,CL05A475MP5NRNC
-9,1,D1,SMF05C,SC70-6,12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-70-6,,,SMF05C.TCT
-10,4,"FB1, FB2, FB3, FB4",FerriteBead,Resistor_SMD:R_0805_2012Metric,30 Ohms @ 100 MHz 1 Ferrite Bead 0805 (2012 Metric) 10A 3mOhm,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA,,742792030
-11,1,J1,SIM8060-6-0-14-00-A,GCT_SIM8060-6-0-14-00-A,"SIM NANO HINGED, 6P, 1.40MM PROF",,,SIM8060-6-0-14-00-A
-12,1,J2,TSM-116-01-L-SV,SAMTEC_TSM-116-01-L-SV,"Connector Header Surface Mount 16 position 0.100"" (2.54mm)",,,TSM-116-01-L-SV
-13,1,J3,TSM-112-01-L-SV,SAMTEC_TSM-112-01-L-SV,"Connector Header Surface Mount 12 position 0.100"" (2.54mm)",,,TSM-112-01-L-SV
-14,1,J4,U.FL-R-SMT,HRS_U.FL-R-SMT(10),"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder",https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/U-FL-R-SMT-10/513011,,U.FL-R-SMT(10)
-15,1,L1,1 uH,Inductor_SMD:L_Coilcraft_XxL4020,1 µH Shielded Molded Inductor 12 A 9mOhm Max 1616 (4040 Metric),https://www.digikey.com/en/products/detail/coilcraft/XGL4020-102MEC/12714628?s=N4IgjCBcpgHAzFUBjKAzAhgGwM4FMAaEAeygG0R4B2ANgE4AWAJhCPlioFYAGCIhsGFo0QAXSIAHAC5QQAZSkAnAJYA7AOYgAvkTB1YdJCFSRMuQiXIhuYnSCbcORk2fxFSkCmAAEAVoASYpIykCAAqqrKUgDyaACyeBg4AK6KeNpEALQs0MZQSskWHhSctlkQuS7Ybpae9gycVGUgmQzO6NVFVghUvLZaWkA,,XGL4020-102MEC
-16,1,R1,1.24M,Resistor_SMD:R_0402_1005Metric,1.24M Ohm 0402 Resistor,,,RC0402FR-071M24L
-17,1,R2,182k,Resistor_SMD:R_0402_1005Metric,182k Ohm 0402 Resistor,,,AC0402FR-07182KL
-18,4,"R3, R6, R21, R22",0,Resistor_SMD:R_0402_1005Metric,0 Ohm 0402 Resistor,https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294,,0402WGF0000TCE
-19,1,R8,15k,Resistor_SMD:R_0402_1005Metric,15k Ohm 0402 Resistor,,0402WGF1502TCE,0402WGF1502TCE
-20,1,R14,470,Capacitor_SMD:C_0402_1005Metric,470 Ohm 0402 Resistor,,0402WGF4700TCE,0402WGF4700TCE
-21,1,R15,100k,Resistor_SMD:R_0402_1005Metric,100k Ohm 0402 Resistor,,0402WGF1003TCE,0402WGF1003TCE
-22,1,U1,BG96,RF_GSM:Quectel_BG96,Quectel BG96 Cellular Module,https://www.digikey.com/en/products/detail/quectel/BG96MA-128-SGN/13278337,,BG96MA-128-SGN
-23,1,U2,TPS63020QDSJTQ1,TPS63020DSJR:IC_TPS63020DSJR,High Efficiency Single Inductor Buck-Boost Converter with 4A Switch 14-VSON -40 to 85,https://www.digikey.com/en/products/detail/texas-instruments/TPS63020QDSJTQ1/5800297,,TPS63020QDSJTQ1
-24,1,U3,TXB0108DQSR,Package_SON:USON-20_2x4mm_P0.4mm,TXB0108 8-Bit Bidirectional Voltage-Level Translator,https://www.digikey.com/en/products/detail/texas-instruments/TXB0108DQSR/2260592?s=N4IgTCBcDaICoA0BCAGAjCgHAEQIoGUAlEAXQF8g,,TXB0108DQSR
-25,1,U4,MAX8868EUK30+T,SOT95P280X145-5N,Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX8868EUK30-T/1867357,,MAX8868EUK30+T
-26,1,VD1,D_TVS,Diode_SMD:D_0402_1005Metric,"Varistor 1 Circuit Surface Mount, MLCV 0402 (1005 Metric)",https://www.digikey.com/en/products/detail/panasonic-electronic-components/EZA-EG2A50AX/1137235?s=N4IgTCBcDaIKYC8CGBaOBzMSCsAGJAHiALoC%2BQA,,EZA-EG2A50AX
-27,1,VD4,BLUE,LED_SMD:LED_0603_1608Metric,Blue 470nm LED Indication - Discrete 3.2V 0603 (1608 Metric),https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060BS75000/4489895,,150060BS75000
-28,2,"VD5, VD6",SS2030FL_R1_00001,Diode_SMD:D_SOD-123F,Diode 30 V 2A Surface Mount SOD-123FL,https://www.digikey.com/en/products/detail/panjit-international-inc/SS2030FL-R1-00001/14661129,,SS2030FL_R1_00001
-29,2,"VT3, VT4",DTC043TEBTL,ul_DTC043TEBTL:DTC043TEBTL,Pre-Biased Bipolar Transistor (BJT) NPN - Pre-Biased 50 V 100 mA 250 MHz 150 mW Surface Mount EMT3F (SOT-416FL),https://www.digikey.com/en/products/detail/rohm-semiconductor/DTC043TEBTL/5019127?s=N4IgTCBcDaICIBUDCAGALAZgQUQEIIBkQBdAXyA,,DTC043TEBTL
+Item,Qty,Reference(s),Value,Description,MPN,Digikey,JLCPCB
+1,5,"C1, C2, C6, C7, C8",22uF,22 uF 0402 Capacitor,GCM1885C2A220JA16D,https://www.digikey.com/en/products/detail/murata-electronics/GCM1885C2A220JA16D/1765190,
+2,1,C3,2.2uF,2.2 uF 0402 Capacitor,CL05A225MQ5NSNC,,
+3,4,"C4, C11, C29, C34",0.1uF,0.1 uF 0402 Capacitor,CL05B104KO5NNNC,,
+4,5,"C16, C17, C18, C22, C23",33pF,33 pF 0402 Capacitor,0402CG330J500NT,,
+5,2,"C20, C21",100nF,100 nF 0402 Capacitor,CL05B104KO5NNNC,,
+6,2,"C24, C25",10pF,10 pF 0402 Capacitor,CL05C100JB5NNNC,,
+7,2,"C26, C28",C_Polarized_US,330 µF Molded Tantalum Capacitors 6 V 1411 (3528 Metric) 800mOhm,T490B337M006ATE800,https://www.digikey.com/en/products/detail/kemet/T490B337M006ATE800/5267626?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogDMNcABAK0BiIpdjr7t9zbHPt0Fc2AXVIAHAC5QQAVQB2AS2kB5TAFlC2fAFcAToRABfUvADsKaCAyQcBEuSogAbAwBqICSBlylqhrauobGZiAAtDCotlDSBnpOFJDUAKze4RHW6HEJSS4QYibFQA,
+8,3,"C30, C31, C33",4.7uF,4.7 µF ±20% 10V Ceramic Capacitor X5R 0402 (1005 Metric),CL05A475MP5NRNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A475MP5NRNC/3887140,
+9,1,D1,SMF05C,12.5V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SC-70-6,SMF05C.TCT,,
+10,4,"FB1, FB2, FB3, FB4",FerriteBead,30 Ohms @ 100 MHz 1 Ferrite Bead 0805 (2012 Metric) 10A 3mOhm,742792030,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/742792030/14640457?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIArAAwAcA7BTCALqEAOALlCAMocBOASwB2AcxABfQnACciECkgYcBYmRAwqMgMw6QhTTJhgmBrcYSsQnbnyFjJhMDJpzoCtFjyESkclRYJKRAAJnVUXH4hDlwAAgAjXHQAE0CgA,
+11,1,J1,SIM8060-6-0-14-00-A,"SIM NANO HINGED, 6P, 1.40MM PROF",SIM8060-6-0-14-00-A,,
+12,1,J2,TSM-116-01-L-SV,"Connector Header Surface Mount 16 position 0.100"" (2.54mm)",TSM-116-01-L-SV,,
+13,1,J3,TSM-112-01-L-SV,"Connector Header Surface Mount 12 position 0.100"" (2.54mm)",TSM-112-01-L-SV,,
+14,1,J4,U.FL-R-SMT,"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder",U.FL-R-SMT(10),https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/U-FL-R-SMT-10/513011,
+15,1,L1,1 uH,1 µH Shielded Molded Inductor 12 A 9mOhm Max 1616 (4040 Metric),XGL4020-102MEC,https://www.digikey.com/en/products/detail/coilcraft/XGL4020-102MEC/12714628?s=N4IgjCBcpgHAzFUBjKAzAhgGwM4FMAaEAeygG0R4B2ANgE4AWAJhCPlioFYAGCIhsGFo0QAXSIAHAC5QQAZSkAnAJYA7AOYgAvkTB1YdJCFSRMuQiXIhuYnSCbcORk2fxFSkCmAAEAVoASYpIykCAAqqrKUgDyaACyeBg4AK6KeNpEALQs0MZQSskWHhSctlkQuS7Ybpae9gycVGUgmQzO6NVFVghUvLZaWkA,
+16,1,R1,1.24M,1.24M Ohm 0402 Resistor,RC0402FR-071M24L,,
+17,1,R2,182k,182k Ohm 0402 Resistor,AC0402FR-07182KL,,
+18,4,"R3, R6, R21, R22",0,0 Ohm 0402 Resistor,0402WGF0000TCE,https://www.digikey.com/en/products/detail/yageo/RC0402JR-070RP/4935294,
+19,1,R8,15k,15k Ohm 0402 Resistor,0402WGF1502TCE,,0402WGF1502TCE
+20,1,R14,470,470 Ohm 0402 Resistor,0402WGF4700TCE,,0402WGF4700TCE
+21,1,R15,100k,100k Ohm 0402 Resistor,0402WGF1003TCE,,0402WGF1003TCE
+22,1,U1,BG96,Quectel BG96 Cellular Module,BG96MA-128-SGN,https://www.digikey.com/en/products/detail/quectel/BG96MA-128-SGN/13278337,
+23,1,U2,TPS63020QDSJTQ1,High Efficiency Single Inductor Buck-Boost Converter with 4A Switch 14-VSON -40 to 85,TPS63020QDSJTQ1,https://www.digikey.com/en/products/detail/texas-instruments/TPS63020QDSJTQ1/5800297,
+24,1,U3,TXB0108DQSR,TXB0108 8-Bit Bidirectional Voltage-Level Translator,TXB0108DQSR,https://www.digikey.com/en/products/detail/texas-instruments/TXB0108DQSR/2260592?s=N4IgTCBcDaICoA0BCAGAjCgHAEQIoGUAlEAXQF8g,
+25,1,U4,MAX8868EUK30+T,Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5,MAX8868EUK30+T,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX8868EUK30-T/1867357,
+26,1,VD1,D_TVS,"Varistor 1 Circuit Surface Mount, MLCV 0402 (1005 Metric)",EZA-EG2A50AX,https://www.digikey.com/en/products/detail/panasonic-electronic-components/EZA-EG2A50AX/1137235?s=N4IgTCBcDaIKYC8CGBaOBzMSCsAGJAHiALoC%2BQA,
+27,1,VD4,BLUE,Blue 470nm LED Indication - Discrete 3.2V 0603 (1608 Metric),150060BS75000,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060BS75000/4489895,
+28,2,"VD5, VD6",SS2030FL_R1_00001,Diode 30 V 2A Surface Mount SOD-123FL,SS2030FL_R1_00001,https://www.digikey.com/en/products/detail/panjit-international-inc/SS2030FL-R1-00001/14661129,
+29,2,"VT3, VT4",DTC043TEBTL,Pre-Biased Bipolar Transistor (BJT) NPN - Pre-Biased 50 V 100 mA 250 MHz 150 mW Surface Mount EMT3F (SOT-416FL),DTC043TEBTL,https://www.digikey.com/en/products/detail/rohm-semiconductor/DTC043TEBTL/5019127?s=N4IgTCBcDaICIBUDCAGALAZgQUQEIIBkQBdAXyA,
