@@ -22,7 +22,7 @@ U.FL-R-SMT,J4,"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount So
 100k,R15,100k Ohm 0402 Resistor,C25741,
 BG96,U1,Quectel BG96 Cellular Module,C3010493,
 TPS63020QDSJTQ1,U2,High Efficiency Single Inductor Buck-Boost Converter with 4A Switch 14-VSON -40 to 85,C202140,
-TXB0108DQSR,U3,TXB0108 8-Bit Bidirectional Voltage-Level Translator,C427057,
+TXB0108RGYR,U3,TXB0108 8-Bit Bidirectional Voltage-Level Translator,C194701,
 MAX8868EUK30+T,U4,Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5,"C37970
 ",
 D_TVS,VD1,"Varistor 1 Circuit Surface Mount, MLCV 0402 (1005 Metric)",C316053,
