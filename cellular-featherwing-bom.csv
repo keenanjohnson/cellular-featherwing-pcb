@@ -12,7 +12,7 @@ FerriteBead,"FB1,FB2,FB3,FB4",30 Ohms @ 100 MHz 1 Ferrite Bead 0805 (2012 Metric
 SIM8060-6-0-14-00-A,J1,"SIM NANO HINGED, 6P, 1.40MM PROF",C111371,
 TSM-116-01-L-SV,J2,"Connector Header Surface Mount 16 position 0.100"" (2.54mm)",,
 TSM-112-01-L-SV,J3,"Connector Header Surface Mount 12 position 0.100"" (2.54mm)",,
-U.FL-R-SMT,J4,"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder",C434808,
+U.FL-R-SMT,J4,"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder",C88373,
 1 uH,L1,1 碌H Shielded Molded Inductor 12 A 9mOhm Max 1616 (4040 Metric),,
 1.24M,R1,1.24M Ohm 0402 Resistor,C166533,
 182k,R2,182k Ohm 0402 Resistor,C226822,
