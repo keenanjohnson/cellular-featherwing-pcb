@@ -5,3 +5,5 @@ Based on the excellent [qTop Adafruit Feather design](https://www.iot-bots.com/c
 
 # Current Status
 This PCB is currently being produced by [JLPCB](https://jlcpcb.com/). The design has NOT been verified as functional yet until first production samples are tested.
+
+<img width="815" alt="image" src="https://user-images.githubusercontent.com/2559382/216837850-fc0d91f4-4d34-4132-9228-2bf4532732bf.png">
