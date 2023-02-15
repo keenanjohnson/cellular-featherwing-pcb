@@ -16,7 +16,7 @@ U.FL-R-SMT,J4,"U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount So
 1 uH,L1,1 碌H Shielded Molded Inductor 12 A 9mOhm Max 1616 (4040 Metric),,
 1.24M,R1,1.24M Ohm 0402 Resistor,C166533,
 182k,R2,182k Ohm 0402 Resistor,C226822,
-0,"R1,R3,R6,R21,R22",0 Ohm 0402 Resistor,C17168,
+0,"R3,R6,R21,R22",0 Ohm 0402 Resistor,C17168,
 15k,R8,15k Ohm 0402 Resistor,C25756,
 470,R14,470 Ohm 0402 Resistor,C25117,
 100k,R15,100k Ohm 0402 Resistor,C25741,
